@@ -22,7 +22,7 @@ if (alive == true) {
 ## **📂 Currently working on:**
 <br/>
 
-* projects[0].equals("**PlayerSignShop** 🪧")
+### projects[0].equals("**PlayerSignShop** 🪧")
 
 <br/>
 
@@ -30,7 +30,7 @@ if (alive == true) {
 PlayerSignShop i my first Spigot plugin ✨. This was made to teach myself the basics of Spigot/Bukkit development. The plugin is used to create "Sign Shops" were players can buy other players items using a simple shop.
 ```
 
-* projects[1].equals("**HomePlugin** 🏡")
+### projects[1].equals("**HomePlugin** 🏡")
 
 <br/>
 
