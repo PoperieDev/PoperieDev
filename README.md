@@ -22,18 +22,10 @@ if (alive == true) {
 ## **📂 Currently working on:**
 <br/>
 
-### projects[0].equals("**PlayerSignShop** 🪧")
+### projects[2].equals("**Caves** 🪧")
 
 <br/>
 
 ```
-PlayerSignShop i my first Spigot plugin ✨. This was made to teach myself the basics of Spigot/Bukkit development. The plugin is used to create "Sign Shops" were players can buy other players items using a simple shop.
-```
-
-### projects[1].equals("**HomePlugin** 🏡")
-
-<br/>
-
-```
-My second plugin. This was made to further my development skills with the SpigotAPI 🔥
+Caves is a plugin for an entire server. Scoreboards, Custom items, Economy, Effects and much more!
 ```
