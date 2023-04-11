@@ -6,7 +6,7 @@
 ```
 
 ```vb
-int age = 15;
+int age = 16;
 String[] languagesImLearning = new String[]{"SkriptLang", "Java"};
 
 if (alive == true) {
