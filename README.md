@@ -22,10 +22,15 @@ if (alive == true) {
 ## **📂 Currently working on:**
 <br/>
 
-### projects[2].equals("**Caves** 🪧")
-
-<br/>
+### projects[2].equals("**Caves** 🏕")
 
 ```
 Caves is a plugin for an entire server. Scoreboards, Custom items, Economy, Effects and much more!
+```
+
+### projects[3].equals("**Craft-GPT** 🤖")
+
+
+```
+Craft-GPT is an implementation of OpenAI's API into bukkit
 ```
