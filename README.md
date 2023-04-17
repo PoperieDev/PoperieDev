@@ -1,20 +1,3 @@
-# 👋 **Hello!**
-
-```vb
-- > 'I am a 16 year old self tought developer'
-- > 'I'm currently learning: Java'
-```
-
-```vb
-int age = 16;
-String[] languagesImLearning = new String[]{"SkriptLang", "Java"};
-
-if (alive == true) {
-    System.out.println("I am a " + age + " year old self tought developer")
-    System.out.println("I'm currently learning: " + languagesImLearning[1])
-}
-```
-
 
 <br/>
 
