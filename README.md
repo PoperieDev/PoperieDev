@@ -1,8 +1,4 @@
-
-<br/>
-
----
-## **📂 Currently working on:**
+# **📂 Currently working on:**
 <br/>
 
 ### projects[2].equals("**Caves** 🏕")
